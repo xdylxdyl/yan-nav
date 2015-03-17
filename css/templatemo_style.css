@@ -166,13 +166,13 @@ p.justify { text-align: justify; }
     justify-content: space-around;
 }
 #portfolio-content img { 
-	width: 300px;
-	height: 150px;
+	width: 260px;
+	height: 130px;
 }
 .portfolio-group {
 	display: inline-block;
 	width: 300px;
-	height: 150px;
+	height: 130px;
 	position: relative;
 	margin: 15px 10px;
 }
