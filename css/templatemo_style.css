@@ -166,12 +166,12 @@ p.justify { text-align: justify; }
     justify-content: space-around;
 }
 #portfolio-content img { 
-	width: 250px; 
+	width: 500px;
 	height: 250px; 
 }
 .portfolio-group {
 	display: inline-block;
-	width: 250px;
+	width: 500px;
 	height: 250px;
 	position: relative;
 	margin: 15px 10px;
